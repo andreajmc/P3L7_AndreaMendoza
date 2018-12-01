@@ -33,7 +33,7 @@ int main() {
                 cout<<endl<<"Ha ingresado un tamaño inválido. Inténtelo de nuevo: ";
                 cin>>size;
             }
-            cout<<endl<<"Ingrese el nombre de la matriz: "
+            cout<<endl<<"Ingrese el nombre de la matriz: ";
             cin>>name;
             Matrices.emplace_back(size,name);
             cout<<endl<<"Matriz creada exitósamente."<<endl;
