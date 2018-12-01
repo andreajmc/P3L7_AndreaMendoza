@@ -1,0 +1,3 @@
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/cmake-build-debug/CMakeFiles/Lab7_AndreaMendoza.dir

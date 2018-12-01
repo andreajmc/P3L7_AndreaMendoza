@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab7_AndreaMendoza.dir/main.cpp.o CMakeFiles/Lab7_AndreaMendoza.dir/Matriz.cpp.o  -o Lab7_AndreaMendoza 
