@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/Matriz.h
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/P3L7_AndreaMendoza/Matriz.cpp
+Matriz.h
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/P3L7_AndreaMendoza/Matriz.h
+iostream
+-
+
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/P3L7_AndreaMendoza/Matriz.h
 string
 -
 iostream
 -
 
-/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/main.cpp
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/P3L7_AndreaMendoza/main.cpp
 iostream
 -
 Matriz.h
-/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/Matriz.h
+/home/andrea/Desktop/Progra III/Lab7_AndreaMendoza/P3L7_AndreaMendoza/Matriz.h
 vector
 -
 string.h
